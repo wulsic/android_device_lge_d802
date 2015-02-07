@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <project name="wulsic/aicp_kernel_lge_msm8974.git" path="kernel/lge/msm8974" remote="github" revision="kitkat"/>
+ <project name="wulsic/Team-Win-Recovery-Project.git" path="bootable/recovery" remote="github" revision="master"/>
+ <project name="wulsic/android_device_lge_g2-common.git" path="device/lge/g2-common" remote="github" revision="omni-5.0"/>
+ <project name="wulsic/multirom-g2.git" path="system/extras/multirom" remote="github" revision="master"/>
+ <project name="wulsic/android_device_lge_d802.git" path="device/lge/d802" remote="github" revision="omni-5.0"/>
+ <project name="Tasssadar/libbootimg.git" path="system/extras/libbootimg" remote="github" revision="master"/>
+ <project name="Tasssadar/multirom_adbd.git" path="system/extras/multirom/adbd" remote="github" revision="master"/>
+ <project name="PatrikKT/kexec-tools.git" path="system/extras/multirom/kexec-tools" remote="github" revision="master"/>
+ <project name="CyanogenMod/android_device_qcom_common.git" path="device/qcom/common" remote="github" revision="cm-12.0"/>
+</manifest>
